@@ -1,4 +1,4 @@
-﻿# 📊🐝 ApiárioRD - Sistema de Gestão Apícola Integrado
+﻿# 📊🐝 ApiarioRD - Sistema de Gestao Apicola Integrado
 
 O **ApiárioRD** é um ecossistema ERP completo desenvolvido para a gestão técnica, comercial e financeira de apiários. O sistema automatiza o controlo de colmeias, monitorização de maneios técnicos (como controlo de Varroa), processos de envase de mel com tabelas comerciais dinâmicas e disponibiliza um Dashboard analítico em tempo real com indicadores de eficiência orientados por dados.
 
